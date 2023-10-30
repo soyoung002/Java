@@ -25,9 +25,9 @@ public class A03_ChangeType {
 		int num2 = num1; // 자동형 변환
 		double num3 = num2; //자동형 변환
 		
-		System.out.println(num1);
-		System.out.println(num2);
-		System.out.println(num3);
+//		System.out.println(num1);
+//		System.out.println(num2);
+//		System.out.println(num3);
 		
 		double num4 = 24322.345; 
 		int num5 = (int)num4; //강제형 변환(casting) ***
